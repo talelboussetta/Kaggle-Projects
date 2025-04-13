@@ -3,9 +3,9 @@
 Welcome to my collection of Kaggle projects! This repository contains various data science and machine learning projects I've worked on, using real-world datasets and Kaggle competitions. Each project demonstrates a unique problem-solving approach, from data cleaning and exploration to model building and evaluation.
 
 ## Projects List
-- [Energy Consumption Prediction](./energy-consumption-prediction) 
-- [Titanic death rate prediction](./Titanic-death-rate-prediction)
-- [Supermarket spend Prediction](./Supermarket-spend-Prediction)
+- [Energy Consumption Prediction](https://github.com/talelboussetta/Energy-Consumption-Prediction) 
+- [Titanic death rate prediction](https://github.com/talelboussetta/Kaggle-Titanic)
+- [Supermarket spend Prediction](https://github.com/talelboussetta/supermarket-loyalty-prediction)
 
 ## Repository Structure
 Each project is stored in its own folder, containing the following:
